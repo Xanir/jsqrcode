@@ -49,3 +49,5 @@ Include the scripts in the following order:
     <script type="text/javascript" src="findpat.js"></script>
     <script type="text/javascript" src="alignpat.js"></script>
     <script type="text/javascript" src="databr.js"></script>
+
+TEST!
